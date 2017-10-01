@@ -1,8 +1,8 @@
 public class A
 {
-public static void main(String[] args)
+public static void main(String[] argds)
 {
-	System.out.println("tamil");
+	System.out.println("tamilfdfd");
 }
 
 }
